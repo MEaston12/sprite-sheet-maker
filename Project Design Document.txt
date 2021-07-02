@@ -1,0 +1,13 @@
+
+
+Project Scoping
+1 - Get a basic workflow running by breaking up the spritesheet into pngs and combining a series of pngs into a final spritesheet.
+
+
+
+
+
+Ideal Final Workflow
+1 - Import existing spritesheet from Noita as a series of .ases with a .json containing all necessary metadata
+2 - Open files in Aseprite, edit, and save
+3 - Export new .ase compilation as a Noita spritesheet
